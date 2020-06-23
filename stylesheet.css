@@ -89,8 +89,9 @@ body{
 
 .main-bawah{
 	background-color: white;
+	height: 650px;
+	text-align: center;
 	width:100%;
-	height:450px;
 	margin-bottom:10px; 
 }
 
@@ -231,9 +232,7 @@ body{
 }
 
 .main-bawah{
-	background-color: white;
-	height: 650px;
-	text-align: center;
+	
 }
 
 .judul-menu{
@@ -300,6 +299,12 @@ body{
 }
 
 @media(max-width: 1305px){
+	.main-atas{
+	background-color: white;
+	width:100%;
+	height:450px;
+	margin-bottom:0px; 
+}
 
 	.header{
 		height:145px;
