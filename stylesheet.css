@@ -340,13 +340,14 @@ body{
 		background-color: white;
 		width:30%;
 		float:right;
-		font-size: 12px;
+		font-size: 11px;
 		text-align: center;
 		line-height: 3px;
+
 	}
 
 	.frame-formulir h3{
-		font-size:14px;
+		font-size:13px;
 		padding-bottom: 19px;
 	}
 
