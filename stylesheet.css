@@ -477,6 +477,16 @@ body{
 }
 
 @media(max-width:847px){
+	.header-search{
+		width:100%;
+		text-align: center;
+		margin:0 auto;
+	}
+
+	.header-search input{
+		width:260px;
+
+	}
 
 		.box-menu{
 		background-color:#ffffff;
